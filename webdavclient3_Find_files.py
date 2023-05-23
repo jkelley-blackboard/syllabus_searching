@@ -3,6 +3,9 @@ Preprared by:  jeff.kelley@anthology.com  2023-May
 # traverse a course folder directory to
 # get a list of files with a string in their name
 # uses https://pypi.org/project/webdavclient3/
+# expects to find the following files in same directory:
+#  connection.ini - connection properties
+#  course_ids.csv - list of course ids, one per line, no header
 
 """
 
