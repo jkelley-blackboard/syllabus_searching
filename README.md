@@ -1,6 +1,12 @@
 # syllabus_searching
 Methods to find syllabus files/objects in Learn
 
+- connections.ini:  Properties file to store connection information
+- webdavclient3_Find_files.py:  Python module uses WebDAV to search a set of course folders
+- (TBD):  Python module uses service account to get list of items in courses
+- (TBD):  Python module uses postgresql DDA to search for files
+- (TBD):  Python module uses postgresql DDA to search for course objects
+
 
 Everything here:
 
